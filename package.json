@@ -1,0 +1,23 @@
+{
+  "name": "query-parser",
+  "version": "1.0.0",
+  "description": "Query params to operation mapper for Express API-s",
+  "main": "lib/queryParser.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Query",
+    "Parser",
+    "Operation",
+    "Map"
+  ],
+  "author": "Luciano Peranni",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
+}
