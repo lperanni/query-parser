@@ -22,6 +22,8 @@
   "author": "Luciano Peranni",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.5.0"
+    "chai": "^4.2.0",
+    "eslint": "^7.5.0",
+    "mocha": "^8.0.1"
   }
 }
