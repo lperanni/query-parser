@@ -1,6 +1,10 @@
 {
   "name": "query-parser",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lperanni/query-parser.git"
+  },
   "description": "Query params to operation mapper for Express API-s",
   "main": "lib/queryParser.js",
   "files": [
