@@ -14,10 +14,14 @@
     "test": "mocha"
   },
   "keywords": [
-    "Query",
-    "Parser",
-    "Operation",
-    "Map"
+    "query",
+    "parser",
+    "operation",
+    "operations",
+    "mapper",
+    "map",
+    "middleware",
+    "sequelize"
   ],
   "author": "Luciano Peranni",
   "license": "ISC",
