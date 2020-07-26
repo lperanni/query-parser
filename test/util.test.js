@@ -15,6 +15,7 @@ describe('Utility functions', () => {
 			startDate: 'lte.20/07/2020',
 		};
 		const test = parser(exampleInput);
+		console.log(test);
     
 		it('Should add an \'operation\' key to the original object', () => {
 			expect(test).to.haveOwnProperty('operations');
